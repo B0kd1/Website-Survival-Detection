@@ -13,7 +13,7 @@ It can help you to detect the survival status of the website in batches and retu
 
 
 <p dir="auto">
-    3AnG@ubuntu~$ python3 B0kd1_Survive.py /tmp/urls.txt 200
+    3AnG@ubuntu:~$ python3 B0kd1_Survive.py /tmp/urls.txt 200
     </p>
     <p dir="auto">
     (This is threads 1-200)
