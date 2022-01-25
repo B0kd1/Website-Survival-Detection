@@ -11,7 +11,7 @@ It can help you to detect the survival status of the website in batches and retu
   <font _mstmutation="1">- 🔨 My dream </font>
 </h2>
 <p dir="auto">
-Sorry, I am a non-English native speaker, all the words below are from Google Translate, for example, after you use the OSINT framework, you will get tens of thousands of websites, and then you are looking for something in github to detect their survival, you will It didn't work very well, now you have a very useful little tool to help you do this, it has no thread limit, but I recommend 1-200 and will save the record in the "results" file after completion middle. I will continue to update it and add directory scanning and exploits in the website later, you only need --cve-xxxx-xxxxx to automate the exploit and add --reverse xxx.xxx.xxx.xxx --ports xxxx automation Build the reserver shell, yes I'm fed up with cloud players. So do it yourself!
+Sorry, I am a non-English native speaker, all the words below are from Google Translate, for example, after you use the OSINT framework, you will get tens of thousands of websites, and then you are looking for something in github to detect their survival, you will It didn't work very well, now you have a very useful little tool to help you do this, it has no thread limit, but I recommend 1-200 and will save the record in the "results" file after completion middle. I will continue to update it and add directory scanning and exploits in the website later, you only need "--cve-xxxx-xxxxx" to automate the exploit and add "--reverse xxx.xxx.xxx.xxx --ports xxxx" automation Build the reserver shell, yes I'm fed up with cloud players. So do it yourself!
     </p>
     
 <h2 dir="auto">
