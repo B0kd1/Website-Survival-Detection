@@ -26,7 +26,7 @@ I will continue to write some problems encountered in work into small tools
 <div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="apt install python3"><pre><code>apt install python3
 </code></pre></div>
 <p dir="auto">
-    B0kd1@ubuntu:~$ 
+    Use: 
     </p>
 <div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="chmod +x B0kd1_Survive.py"><pre><code>chmod +x B0kd1_Survive.py
 </code></pre></div>
