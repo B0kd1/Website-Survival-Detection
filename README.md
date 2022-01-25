@@ -39,6 +39,13 @@ I will continue to write some problems encountered in work into small tools
   <font _mstmutation="1">- 🌱 Binary download </font>
 </h2>
 <a href="https://github.com/B0kd1/Website-Survival-Detection/releases">Jmp to “Releases”</a>
+<p dir="auto">Like this：</p>
+<p dir="auto">Windows: B0kd1_Survive_win.exe c:\website.txt 200</p>
+<p dir="auto">Linux: ./B0kd1_Survive /tmp/website.txt 200</p>
+<p dir="auto">B0kd1_Survive file thread</p>
+<p dir="auto">
+Currently supported platforms: Windows and Linux
+</p>
 
   
 <h2 dir="auto">
