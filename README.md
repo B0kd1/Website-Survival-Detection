@@ -16,3 +16,5 @@ Instructions
 Please don't use it as malicious behavior.
 </p>
 
+<img>![image](https://github.com/B0kd1/Website-Survival-Detection/blob/main/B0kd1_Survive.png)</img>
+
