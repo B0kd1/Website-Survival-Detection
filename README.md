@@ -47,7 +47,7 @@ I will continue to write some problems encountered in work into small tools
   <font _mstmutation="1">- 🌱 Binary download </font>
 </h2>
 <a href="https://github.com/B0kd1/Website-Survival-Detection/releases">Jmp to “Releases”</a>
-<p dir="auto">Like this：</p>
+
 <p dir="auto">Windows: </p>
 <div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="B0kd1_Survive_win.exe c:\website.txt 200"><pre><code>B0kd1_Survive_win.exe c:\website.txt 200
 </code></pre></div>
