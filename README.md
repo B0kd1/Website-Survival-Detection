@@ -48,9 +48,15 @@ I will continue to write some problems encountered in work into small tools
 </h2>
 <a href="https://github.com/B0kd1/Website-Survival-Detection/releases">Jmp to “Releases”</a>
 <p dir="auto">Like this：</p>
-<p dir="auto">Windows: B0kd1_Survive_win.exe c:\website.txt 200</p>
-<p dir="auto">Linux: ./B0kd1_Survive /tmp/website.txt 200</p>
-<p dir="auto">B0kd1_Survive file thread</p>
+<p dir="auto">Windows: </p>
+<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="B0kd1_Survive_win.exe c:\website.txt 200"><pre><code>B0kd1_Survive_win.exe c:\website.txt 200
+</code></pre></div>
+<p dir="auto">Linux: </p>
+<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="./B0kd1_Survive /tmp/website.txt 200"><pre><code>./B0kd1_Survive /tmp/website.txt 200
+</code></pre></div>
+<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="B0kd1_Survive (file) (thread)"><pre><code>B0kd1_Survive (file) (thread)
+</code></pre></div>
+
 <p dir="auto">
 Currently supported platforms: Windows and Linux
 </p>
