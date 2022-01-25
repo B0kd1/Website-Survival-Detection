@@ -16,14 +16,22 @@ I will continue to write some problems encountered in work into small tools
 </h2>
 
 <p dir="auto">
-    User:sudo apt install python3
+    User:
     </p>
+<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="sudo apt install python3"><pre><code>sudo apt install python3
+</code></pre></div>
 <p dir="auto">
-    Root:apt install python3
+    Root:
     </p>
+<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="apt install python3"><pre><code>apt install python3
+</code></pre></div>
 <p dir="auto">
-    3AnG@ubuntu:~$ python3 B0kd1_Survive.py /tmp/urls.txt 200
+    B0kd1@ubuntu:~$ 
     </p>
+<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="chmod +x B0kd1_Survive.py"><pre><code>chmod +x B0kd1_Survive.py
+</code></pre></div>
+<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="python3 B0kd1_Survive.py /tmp/urls.txt 200"><pre><code>python3 B0kd1_Survive.py /tmp/urls.txt 200
+</code></pre></div>
     <p dir="auto">
     (This is threads 1-200)
     </p>
