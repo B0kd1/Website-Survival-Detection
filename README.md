@@ -16,6 +16,12 @@ I will continue to write some problems encountered in work into small tools
 </h2>
 
 <p dir="auto">
+    User:sudo apt install python3
+    </p>
+<p dir="auto">
+    Root:apt install python3
+    </p>
+<p dir="auto">
     3AnG@ubuntu:~$ python3 B0kd1_Survive.py /tmp/urls.txt 200
     </p>
     <p dir="auto">
