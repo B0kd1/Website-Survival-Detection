@@ -48,3 +48,6 @@ I will continue to write some problems encountered in work into small tools
 <p dir="auto">
 Please don't use it as malicious behavior.
 </p>
+<p dir="auto">
+Do not use for commercial use
+  </p>
