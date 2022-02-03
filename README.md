@@ -7,7 +7,7 @@
 </p>
 <p dir="auto">Come to hang out & to discuss about Website-Survival-Detection, it's usage and development!</p>
 <p dir="auto">
-  <a href="https://discord.gg/VWcdZCUsQP" rel="nofollow">
+  <a href="https://discord.gg/Vts885NF" rel="nofollow">
     <img src="https://camo.githubusercontent.com/6f6e37a14f6243fa90b7205d0f5e8b4c0fc33510d39f4c0c0b2e1dcb89581f6f/68747470733a2f2f646973636f72646170702e636f6d2f6170692f6775696c64732f3733363732343435373235383734353939362f7769646765742e706e673f7374796c653d62616e6e657232" alt="Porchetta Industries" data-canonical-src="https://discordapp.com/api/guilds/736724457258745996/widget.png?style=banner2" style="max-width: 100%;">
   </a>
 </p>
