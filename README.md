@@ -1,5 +1,20 @@
 <h2 dir="auto">
   <a id="user-content-disclaimer--license" class="anchor" aria-hidden="true" href="#disclaimer--license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
+  <font _mstmutation="1">- Official Discord Channel </font>
+</h2>
+<p dir="auto">
+  Website-Survival-Detection has a channel at Porchetta Industries Discord server alongside of channels for many other tools.
+</p>
+<p dir="auto">Come to hang out & to discuss about Website-Survival-Detection, it's usage and development!</p>
+<p dir="auto">
+  <a href="https://discord.gg/VWcdZCUsQP" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/6f6e37a14f6243fa90b7205d0f5e8b4c0fc33510d39f4c0c0b2e1dcb89581f6f/68747470733a2f2f646973636f72646170702e636f6d2f6170692f6775696c64732f3733363732343435373235383734353939362f7769646765742e706e673f7374796c653d62616e6e657232" alt="Porchetta Industries" data-canonical-src="https://discordapp.com/api/guilds/736724457258745996/widget.png?style=banner2" style="max-width: 100%;">
+  </a>
+</p>
+
+
+<h2 dir="auto">
+  <a id="user-content-disclaimer--license" class="anchor" aria-hidden="true" href="#disclaimer--license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
   <font _mstmutation="1">- 🤞 Website-Survival-Detection </font>
 </h2>
     
